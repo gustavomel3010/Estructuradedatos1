@@ -14,7 +14,7 @@ void main()
 	cout<< "ingrese el precio inicial"<<endl;
 	cin>>precio;
 
-	s= precio*0,13;
+	s= precio*0.13;
 	i= precio+s,
 	cout<< "el precio es: "<<i<<endl;
 	getch();
